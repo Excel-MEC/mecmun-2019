@@ -130,7 +130,7 @@
 */
 
 #home-with-countdown {
-    background: url("../images/slider.JPG");
+    background: url("../images/slider.jpg");
 }
 
 
@@ -491,7 +491,7 @@
 \*------------------------------------*/
 
 #register {
-    background-image: url("../images/7.JPG");
+    background-image: url("../images/7.jpg");
 }
 #register .form-wrapper {
     background: rgba(0, 0, 0, 0.8);
